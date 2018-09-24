@@ -1,0 +1,76 @@
+#nav-tab
+{
+    background: black;
+    color:white;
+   
+}
+.nav-link
+{
+    color:white;
+}
+.nav-link:hover{
+    color:rgb(238, 158, 39);
+}
+.view-card
+{
+    box-shadow: 5px 10px #888888;
+    border:3px solid brown;
+}
+#view-card-container
+{
+    margin:2rem;
+    padding-left: 1rem;
+    justify-content: center;
+    display:block;
+}
+.view-card
+{
+    margin:2rem;
+
+}
+
+
+
+
+.editor-choice
+{
+   display: none;
+}
+
+.editor-display1
+{
+   display: none;
+}
+
+.editor-display2
+{
+   display: none;
+}
+
+.editor-display3
+{
+   display: none;
+}
+
+.editor-display4
+{
+   display: none;
+}
+
+.editor-display5
+{
+   display: none;
+}
+.editor-display6
+{
+   display: none;
+}
+.editor-display7
+{
+   display: none;
+}
+.editor-display8
+{
+   display: none;
+}
+
